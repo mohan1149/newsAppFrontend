@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with News Aggregator React App
 
 
 News Aggregator website pulls articles from various sources and displays them in a clean,
